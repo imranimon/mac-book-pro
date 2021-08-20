@@ -1,0 +1,10 @@
+/* make hr tag bold */
+.bold-hr{
+    border: 1.5px solid black;
+}
+
+/* promo code didnn't match css */
+.notify {
+    color: red;
+    display: none;
+}
